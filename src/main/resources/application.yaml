@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: springboot-auth
+  datasource:
+    url: jdbc:mysql://localhost:3306/springboot_auth
+    username: root
+    password: kishor@2233#
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+server:
+  servlet:
+    context-path: /api/v1.0
+
+jwt.secret.key: 0935cefeb1c61614d4ed0dc0872272916ed0c55be8d17e4923ae98db95649607
