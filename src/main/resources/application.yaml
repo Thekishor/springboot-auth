@@ -16,5 +16,3 @@ spring:
 server:
   servlet:
     context-path: /api/v1.0
-
-jwt.secret.key: 0935cefeb1c61614d4ed0dc0872272916ed0c55be8d17e4923ae98db95649607
