@@ -63,25 +63,25 @@ It uses **Spring Security with JWT**, **HttpOnly cookies**, **Thymeleaf template
 - OTP codes are generated using **`SecureRandom`**.
 
 ---
-
+##
 <img width="1919" height="1079" alt="Screenshot 2025-08-17 202230" src="https://github.com/user-attachments/assets/66df772b-7f7f-4f59-917f-edb8bcafb081" />
-<br />
 
+##
 <img width="1919" height="1079" alt="Screenshot 2025-08-17 202256" src="https://github.com/user-attachments/assets/8aa16b85-a0d2-4022-8ac8-805a0c03aa34" />
-<br />
 
+##
 <img width="1919" height="1079" alt="Screenshot 2025-08-17 202305" src="https://github.com/user-attachments/assets/cce5b368-6d64-4902-95de-41928fadc217" />
-<br />
 
+##
 <img width="1919" height="913" alt="Screenshot 2025-08-17 202417" src="https://github.com/user-attachments/assets/73f80325-fc64-4d0c-8be0-0ecb79937a92" />
-<br />
 
+##
 <img width="1919" height="1073" alt="Screenshot 2025-08-17 202541" src="https://github.com/user-attachments/assets/8c8c38a0-6d02-4123-ab88-670f39ef80b1" />
-<br />
 
+##
 <img width="1913" height="912" alt="Screenshot 2025-08-17 202702" src="https://github.com/user-attachments/assets/f79a96ac-7629-4d1a-94ff-e1c21e45fcd5" />
-<br />
 
+##
 <img width="1919" height="1076" alt="Screenshot 2025-08-17 202736" src="https://github.com/user-attachments/assets/4c8f10ef-1b63-4569-bdaf-4a316ffa2f45" />
 <br />
 
